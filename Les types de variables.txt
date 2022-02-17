@@ -1,0 +1,44 @@
+LES TYPES DE VARIABLES
+--------------------------------------------
+	>>> LES CARACTERES <<<
+--------------------------------------------
+
+-> char : %c ( 1 octect en memoire )
+
+	-> signed char : [-127; 127]
+
+	-> unsigned char : [0; 255]
+
+--------------------------------------------
+	>>> LES ENTIERS <<<
+--------------------------------------------
+
+-> int : %d ( 2/4 octects en memoires )
+
+	-> signed int : [-32 768; 32 767]
+
+	-> unsigned int [0; 65 535]
+
+-> short : %hd ( 2 octects en memoires )
+
+	-> signed short : [-32 768; 32 767]
+
+	-> unsigned short : [0; 65 535]
+
+-> long : %ld ( 4 octects en memoires )
+
+	-> signed long : [-2 147 483 648; 2 147 483 647 ]
+
+	-> unsigned long : [0; 4 294 967 295]
+
+--------------------------------------------
+	>>> LES FLOTTANTS <<<
+--------------------------------------------
+
+-> float : %f ( 4 octects en memoires )
+
+	-> [-3.4e38; 3.4e38]
+
+-> double : %f ( 8 octects en memoires )
+
+	-> [-1.7e308; 1.7e308]
